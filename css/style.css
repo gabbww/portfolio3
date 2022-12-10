@@ -1,0 +1,160 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: aliceblue;
+}
+
+p {
+    text-align: justify;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 80px;
+
+}
+
+h2 {
+    color: aliceblue;
+    text-align: center;
+}
+
+nav {
+    box-shadow: 2px 3px 12px 5px rgba(0, 0, 0, 0.301);
+}
+
+li {
+    padding: 10px;
+}
+
+.titulo {
+    color: #343a40;
+    font-size: 80px;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.titulo2 {
+    color: aliceblue;
+    font-size: 150px;
+    margin-top: 20%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.subtitulo,
+.conteudo {
+    color: #343a40;
+    text-align: justify;
+    margin: 0px 0px;
+
+}
+
+.subsubtitulo, .subtitulo2 {
+    color: #343a40;
+    text-align: justify;
+    margin: 0px;
+}
+
+.subtitulo2{
+    color: aliceblue;
+    text-align: justify;
+    margin: 10px 290px;
+
+}
+
+.conteudo {
+    margin-top: 10px;
+}
+
+
+.aaa{
+    margin: 10px 290px;   
+}
+
+.conteudos,
+.conteudos2{
+    text-align: justify;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 290px;
+
+}
+
+.conteudos3{
+    text-align: justify;
+    background-color: #343a40;
+    color: aliceblue;
+}
+
+.conteudos3{
+    text-align: justify;
+    color: #343a40;
+    color: aliceblue;
+}
+
+
+.index {
+    background-color: #343a40;
+}
+
+.border {
+    background-color: #343a40;
+    border-color: #343a40;
+    display: block;
+    height: 2px;
+    margin: auto;
+    width: 400px;
+    height: 3px;
+    margin-bottom: 40px;
+    margin-top: 15px;
+}
+
+.button {
+    background-color: aliceblue;
+    color: #343a40;
+    padding: 8px 5px;
+    display: inline-block;
+    font-size: 30px;
+    border: solid 1px aliceblue;
+    border-radius: 3px;
+    position: absolute;
+    left: 50%;
+    top: 56%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    text-align: center;
+    text-decoration: none;
+    box-shadow: 2px 2px 12px 5px rgba(0, 0, 0, 0.185);
+}
+
+.button:hover {
+    background-color: #343a40;
+    border-color: aliceblue;
+    text-decoration: none;
+    color: aliceblue;
+    transition: 1s;
+}
+
+.button2 {
+    padding: 8px 5px;
+    display: inline-block;
+    font-size: 15px;
+    margin: auto;
+    text-align: center;
+    margin-top: 15px;
+    color: aliceblue;
+
+
+}
+
+.button2:hover {
+    background-color: #343a40;
+    border-color: aliceblue;
+    text-decoration: none;
+    color: aliceblue;
+    transition: 1s;
+}
